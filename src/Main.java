@@ -18,7 +18,7 @@ public class Main {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("请输入学号：");
 		String id=sc.nextLine();
-		System.out.println("请输入题目数量：");
+		System.out.println("请输入题目数量："); 
 		int all=sc.nextInt();
 		BufferedWriter bw = null;
 		al=new ArrayList<String>();
